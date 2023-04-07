@@ -4,5 +4,9 @@
         <members>*</members>
         <name>Flow</name>
     </types>
+    <types>
+        <members>Opportunity.AllOpportunities</members>
+        <name>ListView</name>
+    </types>
     <version>56.0</version>
 </Package>
